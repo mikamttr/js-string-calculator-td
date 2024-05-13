@@ -1,0 +1,15 @@
+{
+  "name": "js-string-calculator-td",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
